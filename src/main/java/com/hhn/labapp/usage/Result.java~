@@ -1,0 +1,14 @@
+package com.hhn.labapp.usage;
+
+public class Result {
+    private long totalTime;
+
+
+    public long getTotalTime() {
+        return totalTime;
+    }
+
+    public void setTotalTime(long totalTime) {
+        this.totalTime = totalTime;
+    }
+}
